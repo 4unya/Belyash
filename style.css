@@ -1,0 +1,44 @@
+p {
+font-size: 30px;
+text-align: center
+}
+h2 {
+  background-color: red;
+  color: #fff;
+  font-size: 35px;
+}
+article {
+  background-color: pink;
+}
+.solid {
+  border-color: red;
+  border-style: solid;
+}
+.dotted {
+  border-color: red;
+  border-style: dotted;
+}
+.double {
+  border-color: red;
+  border-style: double;
+}
+body {
+  margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+}
+table {
+  text-align: center;
+  font-size: 25px;
+  width: 35px;
+  height: 200px;
+  margin-left: 45%;
+}
+ol {
+  text-align: center
+ font-size: 30px;
+}
+body {
+  text-align: center
+}
